@@ -2,9 +2,10 @@ body{
     background: #cccccc;
 }
 
-p{
-
+p {
+    text-align: center;
 }
 
 em strong {
   color:#ff0000;
+}
